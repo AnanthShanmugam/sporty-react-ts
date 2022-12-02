@@ -1,0 +1,14 @@
+{
+  "resourceName": "NotesImages1",
+  "policyUUID": "0a63ec91",
+  "bucketName": "sportyreacttsnotesimagesbucket1",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

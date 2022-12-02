@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "sportyreactts1b3a9c40": {}
+      },
+      "api": {
+        "sportyreactts": {}
+      },
+      "storage": {
+        "NotesImages1": {}
       }
     }
   }
